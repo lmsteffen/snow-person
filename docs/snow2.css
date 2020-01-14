@@ -1,0 +1,13 @@
+html {
+  color : black;
+  font-family: Arial;
+}
+body {
+  background-color : steelblue
+}
+svg .special {
+  color: blue;
+}
+circle {
+  color : white; 
+}
